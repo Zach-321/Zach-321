@@ -1,5 +1,12 @@
 ## Hi there 👋
 
+- 🔭 I’m currently working on Homework
+- 🌱 I’m currently learning Data Science
+- 👯 I’m looking to collaborate on Analysis
+- 🤔 I’m looking for help with Coding
+- 💬 Ask me about Baseball
+
+
 <!--
 **Zach-321/Zach-321** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
